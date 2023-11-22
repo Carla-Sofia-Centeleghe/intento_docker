@@ -1,6 +1,7 @@
 import unittest
 from persona import Persona, MenorEdadException
 
+
 class TestFinal(unittest.TestCase):
 
     def test_creacion_persona(self):
